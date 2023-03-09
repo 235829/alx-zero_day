@@ -1,1 +1,1 @@
-Git and GitHub account
+Sets the mode of file
